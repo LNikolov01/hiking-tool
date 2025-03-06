@@ -1,0 +1,4 @@
+language = "C"
+
+[export]
+include = ["get_gps_coordinates"]
